@@ -1,0 +1,3 @@
+85e196cab5984d0178713a863606862ac1568bd5780f5f506e2df53439fdf21e  gpt3-finnish-small-F16.gguf
+03b999a82ce4b2a4a9f2448ebc0a8c282fa8426cf071da815a443a6b0f2d86a0  gpt3-finnish-small-Q4_K_M.gguf
+bf5a1ca7ce82a3d8be5b8bb8f72e31d5fce2bff4772979ebc2532b69c06bcb71  gpt3-finnish-small-Q8_0.gguf

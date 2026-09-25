@@ -1,0 +1,20 @@
+{
+  "model": "gpt3-finnish-small",
+  "eval_file": "ppl-fi.txt",
+  "measurements": {
+    "F16": {
+      "ppl": 44.4931,
+      "error": 3.22033
+    },
+    "Q8_0": {
+      "ppl": 44.5125,
+      "error": 3.22144,
+      "ratio_to_f16": 1.0004360226641884
+    },
+    "Q4_K_M": {
+      "ppl": 45.2245,
+      "error": 3.26886,
+      "ratio_to_f16": 1.0164385039478032
+    }
+  }
+}
