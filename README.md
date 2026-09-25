@@ -13,7 +13,7 @@ tags:
 
 # GPT3 Finnish Small GGUF
 
-[Source model](https://huggingface.co/TurkuNLP/gpt3-finnish-small) · [Build hub](https://github.com/Dadhichi-Sarker-Shayon/gpt3-finnish-small-GGUF)
+[Source model](https://huggingface.co/TurkuNLP/gpt3-finnish-small) · [HF release](https://huggingface.co/ShayonSarker/gpt3-finnish-small-GGUF) · [Build hub](https://github.com/Dadhichi-Sarker-Shayon/gpt3-finnish-small-GGUF)
 
 Native llama.cpp GGUF release for the 186M-parameter Finnish BLOOM base model. The source config omits `seq_length`; the build restores the tokenizer's 2,048-token limit before conversion.
 
