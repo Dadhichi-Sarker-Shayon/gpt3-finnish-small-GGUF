@@ -21,6 +21,9 @@ tags:
 
 <div align="center">
 
+<a href="https://huggingface.co/ShayonSarker/gpt3-finnish-small-GGUF"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge"></a>
+<a href="https://github.com/Dadhichi-Sarker-Shayon/gpt3-finnish-small-GGUF"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"></a>
+
 <img alt="Model" src="https://img.shields.io/badge/model-gpt3--finnish--small-8A2BE2?style=for-the-badge">
 <img alt="GGUF formats" src="https://img.shields.io/badge/GGUF-F16%20%7C%20Q8_0%20%7C%20Q4_K_M-FFD21E?style=for-the-badge">
 <img alt="Architecture" src="https://img.shields.io/badge/arch-BLOOM-00A6A6?style=for-the-badge">
